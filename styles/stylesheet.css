@@ -1,3 +1,20 @@
 .heading{color:red}
 .capitalParagraph{background-color: beige;}
 #londonHeading{color: pink;}
+span{padding: 0px 5px;
+border-top: 2px solid black ;
+border-bottom: 4px solid gray;
+}
+p{
+    border-color: lightgreen;
+    border-width: 10px;
+    border-style: ridge;
+    margin: 5px;
+}
+h1{
+    font-family: Robotto, sans-serif;
+    text-align: center;
+}
+body{
+    font-family: "Crimson Text", serif;
+}
